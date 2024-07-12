@@ -1,3 +1,9 @@
+## Changes
+
+`ruby -r date -e 'puts Time.now.utc.to_datetime.iso8601' | pbcopy`
+
+- 2024-07-12T13:05:54+00:00
+
 ## Image
 
 ### From repository
