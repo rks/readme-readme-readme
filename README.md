@@ -4,6 +4,9 @@
 
 ## Image
 
+- mailto://example@example.com
+- mailto:example@example.com
+
 ### From repository
 
 #### PNG
